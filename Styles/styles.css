@@ -1,1 +1,5 @@
-body{background-color: darkblue;}
+body{
+    /* background-color: darkblue; */
+    background-image: url(https://cutewallpaper.org/21/undertale-au-wallpaper/Undertale-Wallpaper-P.C-Undertale-au,-Funny-games,-Wallpaper.jpg);
+    background-size: cover;
+}
